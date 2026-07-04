@@ -3,7 +3,7 @@
 A modern and food website built using **HTML** and **CSS**. The project features a clean landing page, attractive design.
 
 ## 🚀 Live Demo
-https://nivakclt.github.io/your-repository-restaurant-website/
+ https://nivakclt.github.io/restaurant-website/
 
 ## ✨ Features
 
